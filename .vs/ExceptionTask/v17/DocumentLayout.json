@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\wrongdateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\wrongdateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\reserveddateintervalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meetingschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|c:\\users\\fakhrib\\source\\repos\\exceptiontask\\exceptiontask\\meetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81ADFD0-5624-4C23-A447-F9FEF9B0F017}|ExceptionTask\\ExceptionTask.csproj|solutionrelative:exceptiontask\\meetings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,12 +42,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Meetings.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\Meetings.cs",
+              "RelativeDocumentMoniker": "ExceptionTask\\Meetings.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\Meetings.cs",
+              "RelativeToolTip": "ExceptionTask\\Meetings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T10:47:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WrongDateException.cs",
-              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\WrongDateException.cs",
-              "RelativeDocumentMoniker": "ExceptionTask\\WrongDateException.cs",
-              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\WrongDateException.cs",
-              "RelativeToolTip": "ExceptionTask\\WrongDateException.cs",
+              "Title": "ReservedDateIntervalException.cs",
+              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\ReservedDateIntervalException.cs",
+              "RelativeDocumentMoniker": "ExceptionTask\\ReservedDateIntervalException.cs",
+              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\ReservedDateIntervalException.cs",
+              "RelativeToolTip": "ExceptionTask\\ReservedDateIntervalException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T20:06:10.237Z",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Meeting.cs",
               "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\Meeting.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\Meeting.cs",
@@ -64,19 +81,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\Program.cs",
               "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\Program.cs",
               "RelativeToolTip": "ExceptionTask\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAB0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T18:21:46.037Z"
+              "WhenOpened": "2025-11-03T18:21:46.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MeetingSchedule.cs",
               "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\ExceptionTask\\ExceptionTask\\MeetingSchedule.cs",
               "RelativeDocumentMoniker": "ExceptionTask\\MeetingSchedule.cs",
@@ -84,7 +102,8 @@
               "RelativeToolTip": "ExceptionTask\\MeetingSchedule.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T19:02:25.68Z"
+              "WhenOpened": "2025-11-03T19:02:25.68Z",
+              "EditorCaption": ""
             }
           ]
         }

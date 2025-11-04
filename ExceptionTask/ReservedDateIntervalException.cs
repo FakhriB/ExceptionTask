@@ -1,16 +1,9 @@
-﻿
-[Serializable]
-internal class ReservedDateIntervalException : Exception
+﻿public class WrongDateIntervalException : Exception
 {
-    public ReservedDateIntervalException()
-    {
-    }
+    public WrongDateIntervalException() : base("Bu tarix intervalında artıq görüş var.") { }
+}
 
-    public ReservedDateIntervalException(string? message) : base(message)
-    {
-    }
-
-    public ReservedDateIntervalException(string? message, Exception? innerException) : base(message, innerException)
-    {
-    }
+public class WrongDateIntervalExceptions: Exception
+{
+    public WrongDateIntervalExceptions() : base("FromDate, ToDate-dən kiçik olmalıdır.") { }
 }

@@ -11,7 +11,7 @@ class Program
             schedule.SetMeeting("Ferid", new DateTime(2025, 11, 4, 10, 0, 0), new DateTime(2025, 11, 4, 11, 0, 0));
             schedule.SetMeeting("Aysel", new DateTime(2025, 11, 4, 10, 30, 0), new DateTime(2025, 11, 4, 11, 30, 0)); 
         }
-        catch (ReservedDateIntervalException ex)
+        catch (WrongDateException ex)
         {
             Console.WriteLine("Rezerv xətası: " + ex.Message);
         }

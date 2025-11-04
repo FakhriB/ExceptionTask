@@ -12,3 +12,4 @@ C:\Users\FakhriB\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\refin
 C:\Users\FakhriB\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.pdb
 C:\Users\FakhriB\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.genruntimeconfig.cache
 C:\Users\FakhriB\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ref\ExceptionTask.dll
+C:\Users\FakhriB\source\repos\ExceptionTask\ExceptionTask\obj\Debug\net8.0\ExceptionTask.sourcelink.json
