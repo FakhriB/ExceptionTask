@@ -12,11 +12,7 @@ internal class Meeting
         FromDate = from;
         ToDate = to;
     }
-    public override string ToString()
-    {
-        return ($"{FullName}: {FromDate} - {ToDate}");
-
-    }
 }
+ 
 
 
